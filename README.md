@@ -21,6 +21,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-018)
 * [DaemonLoki](https://github.com/DaemonLoki/100DaysOfSwift/tree/master/Storm%20Viewer)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P01%20StormViewer)
+* [robinrodes](https://github.com/robinrodes/100DaysOfSwift/tree/master/Project1)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project%201)
 
 <p>&nbsp;</p>
